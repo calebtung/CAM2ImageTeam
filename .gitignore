@@ -11,4 +11,4 @@ recognition_programs/darknet/libdarknet*
 .vscode/*
 
 # No caffemodels
-*.caffemodels
+*.caffemodel
