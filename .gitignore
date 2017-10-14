@@ -9,3 +9,6 @@ recognition_programs/darknet/libdarknet*
 
 # No VS Code artifacts
 .vscode/*
+
+# No caffemodels
+*.caffemodels
